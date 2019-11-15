@@ -3,3 +3,6 @@ defaultContentLanguage = "de"
 languageCode = "de-de"
 theme = "hallo"
 title = "ellahska.me"
+
+[Author]
+    name = "ellahska"
