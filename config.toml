@@ -6,3 +6,6 @@ title = "ellahska.me"
 
 [Author]
     name = "ellahska"
+
+ [params]
+    greeting = "Moin."
