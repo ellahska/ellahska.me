@@ -1,4 +1,5 @@
 baseURL = "https://ellahska.me/"
+defaultContentLanguage = "de"
 languageCode = "de-de"
 theme = "hallo"
 title = "ellahska.me"
